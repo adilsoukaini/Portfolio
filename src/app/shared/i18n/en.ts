@@ -45,7 +45,7 @@ export const locale = {
             'masterDegreeOneDesc': "General Master Computer Science",
             'bachlorDegree': "Bachelor's degree",
             'bachlorDegreeDesc': "Bachlor of Computer Science",
-            'university': 'University of Lille, FR',
+            'university': 'University of ibn tofail ,MAR',
             'mission':'Mission',
             'technologies':'Technologies',
             'detail':'Detail',
